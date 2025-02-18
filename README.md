@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me ujjwalgargofficial01@gmail.com
   
-- ⚡ Fun fact: I love to learn new things and technology
+- ⚡ Fun fact: I love learning new things and new technology
 
 <!---
 ujjwalgarg-byt/ujjwalgarg-byt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
