@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ujjwalgarg-byt
 - 👀 I’m interested in Web Developrment
-- 🌱 I’m currently learning React js and front-end developement
+- 🌱 I’m currently learning Node.js and back-end developement
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me ujjwalgargofficial01@gmail.com
-- 🚀 Passionate about front-end development | Building cool projects
+- 🚀 Passionate about MERN full stack development | Building cool projects
 - ✨ Creating responsive & user-friendly websites
 - 🔨 Crafting websites one line at a time | Future full-stack developer
 - 🔥 Turning ideas into interactive web experiences
